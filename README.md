@@ -30,3 +30,7 @@ Launch the notebook in Jupyter Lab or Jupyter Notebook and execute all cells. In
 ## Module Context
 
 This resource forms part of **DSC4011M** and is intended to support teaching on linear regression, residual analysis, and least squares estimation.
+
+
+## Binder Notebook
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UltrasoundSam/residuals_demo/main?urlpath=%2Fdoc%2Ftree%2FResiduals.ipynb)
